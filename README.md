@@ -7,7 +7,8 @@
 
 ### 💬 Areas of Interest:
  - Basketball Analytics
- - Consumer Analytics
+ - Predictive Analytics Models
+ - Simulation Modeling
  - Data Science
 
 ### 📫 How to reach me:
