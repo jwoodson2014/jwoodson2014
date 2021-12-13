@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**jwoodson2014/jwoodson2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 About Me
+  - I am currently a first year M.S. in Business Analytics candidate at the University of Iowa
+  - I received my undergrad degree in Accounting and Finance from Virginia Tech in 2018 and went on to work in consulting for KPMG for 3 years
+  - As someone who did not have much experience in programming coming from undergrad, I have really enjoyed the opportunity to fully immerse myself in learning new languages and applying them to my areas of interest. I hope to continue to learn and grow while adding projects to this page that showcase my abilities.
 
-Here are some ideas to get you started:
+### 💬 Areas of Interest:
+ - Basketball Analytics
+ - Consumer Analytics
+ - Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+  - LinkedIn: linkedin.com/in/jcwoodson
+  - Email: jawoodson@uiowa.edu
