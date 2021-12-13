@@ -12,5 +12,5 @@
  - Data Science
 
 ### 📫 How to reach me:
-  - LinkedIn: linkedin.com/in/jcwoodson
+  - LinkedIn: ([linkedin.com/in/jcwoodson](https://linkedin.com/in/jcwoodson))
   - Email: jawoodson@uiowa.edu
