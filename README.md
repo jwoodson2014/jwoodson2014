@@ -13,4 +13,4 @@
 
 ### 📫 How to reach me:
   - LinkedIn: [linkedin.com/in/jcwoodson](https://linkedin.com/in/jcwoodson)
-  - Email: jawoodson@uiowa.edu
+  - Email: jwoodson2014@gmail.com
