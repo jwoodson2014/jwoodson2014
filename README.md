@@ -7,9 +7,9 @@
 
 ### 💬 Areas of Interest:
  - Basketball Analytics
- - Predictive Analytics Models
  - Simulation Modeling
- - Data Science
+ - Machine Learning
+ - Data Visaulization
 
 ### 📫 How to reach me:
   - LinkedIn: [linkedin.com/in/jcwoodson](https://linkedin.com/in/jcwoodson)
